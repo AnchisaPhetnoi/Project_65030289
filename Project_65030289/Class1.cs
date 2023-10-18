@@ -13,6 +13,7 @@ namespace Project_65030289
             Toey = 1,
             Khim = 2,
             Woun = 3,
+            Tiw  = 4 
 
         }
     }
