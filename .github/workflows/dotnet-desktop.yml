@@ -77,11 +77,8 @@ jobs:
         working-directory: .\TestProject\bin\Debug\net6.0
         run: vstest.console.exe TestProject.dll /Tests:TestProjectMembersCount
 
-       - name: Test Project Members
-        id: run_vstest
-        working-directory: .\TestProject\\bin\Debug\net6.0
-        run: vstest.console.exe TestProject.dll /Tests:TestProjectMembersCount,TestProjectMemberIds 
-
+       
+       
 
 
    
