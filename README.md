@@ -1,0 +1,34 @@
+# Project_65030289
+# ส่งงาน 
+## รูปภาพที่ 1
+![ภาพ](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/b37e6f7f-8542-4b45-8343-89df16cd5b4a)
+
+## รูปภาพที่ 2
+![ภาพ](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/d4878dcc-88d0-42de-98ce-9ce3160b7456)
+
+## รูปภาพที่ 3
+![ภาพ](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/5d9b303c-6a94-4210-9855-cb88f5355b08)
+![393629546_1467365337441047_8007193629640287030_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/dd966efe-de47-4ec9-ac51-0d33137193cf)
+
+## รูปภาพที่ 4
+![ภาพ](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/0956168e-0be7-41e5-9aa5-68f733f8d9c4)
+![393509715_1037505190707795_1629312151302861159_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/eea8a748-3756-4d98-ac63-16e01f6ec16c)
+
+## รูปภาพที่ 5
+![393838737_300183439533066_1070408071558006534_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/50abd6f0-62af-4eea-a3ad-c426faa4601b)
+
+
+## รูปภาพที่ 6
+![387556191_846432246980874_4914210427519601860_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/20aeaca4-226b-445c-837e-2ba63d8aa4f4)
+![393832642_286667987612152_4813515491822974675_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/e02376b0-abff-4ba5-9b98-1365c950a183)
+![393888604_662768015833493_7303583332928499498_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/66ed040b-3016-48db-9ac8-7cc33731443f)
+![393907685_862744211889815_7294988190732822172_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/ec07a975-14ae-47ee-bb25-56937556a152)
+![393900193_338656565225091_8149359273047732097_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/084b5893-c92b-44fe-9dce-7d6008f38e0e)
+
+## รูปภาพที่ 7
+![368281368_1815876448815010_285109492636123752_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/7e68a587-5337-4d3c-b66f-c04c22acff7d)
+![393971375_267982722340826_3358165320417803358_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/bee431e1-d92f-4101-941b-4b03ada3299c)
+![393512814_688896163172280_9136872002075864928_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/e8a073a9-3b7a-44da-a6cd-a7ace37a99f4)
+![394118504_830784145251956_6664835602240617645_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/22aba693-7ec2-42db-bd8c-b0eecdda8953)
+![393774543_382518314104359_1574968454204316028_n](https://github.com/AnchisaPhetnoi/Project_65030289/assets/144197034/f6386fb4-878d-4048-9f0d-70085141c42b)
+
